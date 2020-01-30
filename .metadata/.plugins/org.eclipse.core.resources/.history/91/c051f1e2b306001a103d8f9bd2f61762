@@ -1,0 +1,25 @@
+package phone;
+
+public class PhoneBookManager {
+
+	public void inputData() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void searchData() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void deleteData() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void showallData() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
